@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kilian schreibt was dazu.....
+=======
+Johanna schreibt was dazu
+>>>>>>> origin/test
